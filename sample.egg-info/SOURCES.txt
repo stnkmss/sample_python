@@ -1,0 +1,13 @@
+setup.py
+sample/__init__.py
+sample/__main__.py
+sample/cli.py
+sample/core.py
+sample/hello.py
+sample.egg-info/PKG-INFO
+sample.egg-info/SOURCES.txt
+sample.egg-info/dependency_links.txt
+sample.egg-info/entry_points.txt
+sample.egg-info/top_level.txt
+tests/__init__.py
+tests/test_core.py
